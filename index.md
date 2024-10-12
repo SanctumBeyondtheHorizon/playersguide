@@ -1,10 +1,13 @@
 
-<div style="text-align:center;">
+<div style="text-align: center;">
 
 {{wide
-# Welcome to Sanctum!
-{{margin-top:1px}}
 
+<div style="font-size: 700%;">
+**Welcome to Sanctum**!
+</div>
+
+{{margin-top:1px}}
 
 Sanctum Beyond the Horizon is a science-fantasy Pathfinder Second Edition Living World Campaign. A living world campaign is one where the characters persist in a shared environment across multiple sessions with a variety of GMs as well as text roleplay hosted in our Discord server. Sanctum Beyond the Horizon is explicitly a welcoming space for players of marginalized demographics. Bigotry of any kind will not be tolerated. We hope you enjoy your adventures with us!
 }}
@@ -14,9 +17,15 @@ INSERT LOGO
 
 \page
 
-<div style="text-align:center;">
+{{wide
 
-# Player Expectations
+<div style="text-align: center;">
+
+<div style="font-size: 500%;">
+**Player Expectations**
+</div>
+
+}}
 
 </div>
 
@@ -61,12 +70,14 @@ There will be events that may not fall under any of the existing rules. In all c
 
 ## Roleplay Guidelines
 
-{{margin-top}}
+\column
+
+{{margin-top:20px;}}
 
 1. **Don't Be Obscene**
 There are to be no in depth descriptions of sexual and mature content. Additionally, depictions of violence should be kept to a cinematic level. Excessive depictions of violence are not allowed.
 
-{{margin-top:20px}}
+{{margin-top}}
 
 2. **Reflavoring Character Options**
 Due to the nature of a living world server, Sanctum has restrictions for how far a character option can be reflavored. A spade is a spade and must be used as such, however, a war ax or hammer can have embellishments that make it reminiscent of a shovel. Similarly, spell manifestations always incorporate sigils that clearly indicate the spell being used for purposes of Identify a Spell. Otherwise, the exact appearance is flexible. If a particular instance of relfavoring is questionable, #create-a-ticket. 
