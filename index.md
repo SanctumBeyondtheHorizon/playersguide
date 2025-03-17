@@ -5,12 +5,15 @@
 # Sanctum Player's Guide
 ___
 
-{{imageMaskCenter1,--offsetX:5%,--offsetY:5%,--rotation:0
-  ![](https://i.imgur.com/WbH5o8B.jpg){height:85%}
+
+![homebrew mug](https://i.imgur.com/WbH5o8B.jpg) {position:relative,top:0px,right:0px,width:600px}
+
+{{artist,top:80px,right:30px
+##### Sanctum Logo
+[bunnywitch](https://homebrew.naturalcrit.com)
 }}
 
-
-{{margin-top:600px}}
+{{margin-top:6px}}
 
 <div style="text-align: center;">
 
@@ -20,7 +23,6 @@ Sanctum Beyond the Horizon is a science-fantasy Pathfinder Second Edition Living
 }}
 </div>
 
-{{logo ![](/assets/naturalCritLogoRed.svg)}}
 
 \page
 
